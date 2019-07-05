@@ -1,0 +1,506 @@
+
+body
+{
+margin: 0;
+ background-color: #f2f2f2;   
+}
+
+
+
+ /* Navigation bar */
+   header
+   {
+   height: 100px;
+   }
+
+  .container
+  {
+    background:  #33334d ;
+    display: block;
+    position: fixed;
+    width: 100% ;
+    height: 60px;
+  }
+
+   nav
+   {
+     margin-right: 35px;
+     float: right;
+    
+   }
+
+   nav li
+    {
+     display:  inline-block;
+     margin-left:  13px;
+     padding-top: 20px ;
+    }
+
+    nav a
+    {
+     color: #fff;
+     text-decoration: none;
+  
+    }
+    div ul li a
+    {
+       color: #fff;
+     }
+
+    button
+    {
+      display: inline-block;
+      margin-top: 9px;
+      margin-left: 5px;
+      width: 85px;
+      height: 35px;
+      margin-right: 150px;
+      background: #ffffff;
+      border-style: none;
+      border-radius: 3px;
+    }
+
+    button:hover
+    {
+       background-color: #ffb31a;
+    }
+
+
+input[placeholder="Search" ]
+{
+
+      display: inline-block;
+       float: left;
+       width: 350px;
+       margin-top: 9px;
+
+    }
+
+    nav ul
+    {
+   
+     margin-top: -35px;
+    list-style: none;
+    }
+    
+    .navgation
+    {  
+      color: #fff;
+      margin-top: 20px;
+     list-style: none;
+    }
+
+    li
+    {   
+      color: #fff;
+      margin-top: 20px;
+     list-style: none;
+    }
+    
+    
+    .add-review
+    {
+       float: left;
+      width: 225px;
+      margin-top: 50px;
+    }
+    
+    .form-action-rating
+    {    
+        float: left;
+    }
+    
+    
+ /* Navigation bar */
+
+
+h4
+{
+    word-break: break-all;
+}
+
+.name
+{
+    margin-left: 600px;
+    margin-bottom: 120px;
+}
+
+ .table-class
+ {
+     margin-left: 450px;
+     width: 450px;
+     border-radius: 10px;
+     background-color: #ffffff; 
+     margin-bottom: 200px;
+    
+ }
+
+ 
+  td
+  {          
+        padding: 10px;
+        padding-top: 15px;                 
+  }
+
+
+.feedback
+{     
+    display: inline-block;
+    width: 100%;    
+    height: 100%;
+    background-color: #f2f2f2;        
+}
+
+    .container-pros
+ {
+     display: inline-block;     
+     width: 400px;     
+     margin-left: 0px;  
+     margin-left: 220px;
+ }
+ 
+ 
+
+  .pros
+  {
+      margin-bottom: 100px;
+      display: block;   
+      margin-top: 25px;
+      margin-left: 20px;
+      margin-bottom: 60px;
+      width: 330px;
+      background-color: #ffffff;  
+      border-radius: 8px;  
+  }
+ 
+
+   
+  
+  #agreeIcon
+  {      
+      color: MediumSeaGreen;     
+  }
+
+  
+ #disagreeIcon
+ {   
+      color:Tomato;
+ }
+ 
+   .container-cons
+ {    
+     display: inline-block;
+     width: 400px;
+     float: right;
+     margin-left: 150px;          
+     margin-right: 160px;       
+ }
+
+  .cons
+  {     
+      margin-bottom: 60px;
+      display: block;
+      margin-top: 25px;
+      margin-left: 20px;      
+      width: 330px; 
+      background-color: #ffffff;      
+      border-radius: 8px;    
+  }
+ 
+
+ .header-pros
+ {
+     margin-left: 224px;    
+     color: MediumSeaGreen;
+ }
+  
+ .header-cons
+ {
+    margin-left: 788px;
+    margin-bottom: -48px;
+    color:Tomato;
+
+ }
+  
+
+ 
+ #itag
+ {
+     display: inline-block;
+     margin-left: 10px;
+     margin-top: 10px;   
+ }
+
+
+
+ 
+  .header-feedback
+  {
+      display: inline-block;
+      margin-left: 10px;
+      margin-top: 10px;
+      margin-bottom: 6px;
+  }
+ 
+ 
+   
+ .p-cons
+ {
+     display: block;
+     margin-left: 40px;
+     padding-bottom: 15px;
+     margin-right: 20px;
+     word-break: break-all;
+     
+    
+ }
+ 
+    .p-pros
+ {
+     word-break: break-all;   
+     display: block;
+     margin-left: 40px; 
+     padding-bottom: 15px;
+     margin-right: 20px;    
+ }
+ 
+
+ 
+
+/* Footer Menu */
+
+h3
+{
+  color: #fff;
+  margin-left: 30px;
+  font-size: 25px;
+}
+
+.parent-div
+{
+  overflow :hidden;
+  background-color:  #1f1f2e ;
+  margin-top: 300px;
+  height: 370px ;
+}
+
+
+.contactus-div
+{
+  margin-top: 60px;
+  margin-left: 60px;
+  float: left; 
+}
+
+.aboutus-div
+{
+  color: #fff ;
+  margin-top: 60px;
+  margin-left: 220px;
+  float: left; 
+}
+
+.followus-div
+{
+  margin-top: 60px;
+  float: left;
+  margin-left: 200px;
+}
+
+
+
+  .follow-header
+  {
+    margin-left: 75px;
+  }
+
+
+ .ul-followus li
+ {
+   display: inline;
+ 
+ }
+
+ ul li a
+ {
+   display: inline-block;
+   margin-left: 20px;
+ }
+ ul
+ {
+   margin-left: -15px;
+ }
+
+  input
+  {
+    display: block;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 250px;
+    height: 33px;
+    border-style: none;
+    border-radius: 3px;
+    padding-left: 13px;
+  }
+
+
+
+div ul li a:hover
+{
+  color:#ffd633;
+}
+
+
+
+  /* Footer Menu */
+
+  
+  
+  
+ .btn-agree
+  {
+      display: inline;    
+      background-color: #fff;
+      margin-left: 0px;
+      margin-right: 0px;
+      font-size: 15px;
+      width: 63px;
+       
+  }
+  
+
+  
+  .btn-disagree
+  {
+      display: inline;    
+      background-color: #fff;
+      margin-left: 0px;
+      margin-right: 0px;
+      font-size: 15px;
+      width: 80px;
+  }
+  
+  
+  
+  
+   .num-agree 
+  {
+      margin-left: 20px;
+      display: inline;
+      color:DodgerBlue; 
+      margin-left: 27px;         
+  }
+  
+  
+  .num-disagree
+  {
+     margin-left: 50px;
+    display: inline;
+    color:DodgerBlue;    
+  }
+  
+
+    .btn-agree:hover
+  {
+     
+      background-color: #fff;
+         border-style: none;
+  }
+  
+  
+  
+  .btn-disagree:hover
+  {
+     
+      background-color: #fff;
+     border-style: none;
+  }
+  
+
+  
+  
+  
+  
+  
+  
+  
+  #agreeIcon
+  {      
+      color: MediumSeaGreen;     
+  }
+
+  
+  
+ #disagreeIcon
+ {   
+      color:Tomato;
+ }
+ 
+ 
+ 
+ 
+ .btn-agree
+  {
+      display: inline;    
+      background-color: #fff;
+      margin-left: 0px;
+      margin-right: 0px;
+      font-size: 15px;
+      width: 63px;
+       
+  }
+  
+
+  
+  .btn-disagree
+  {
+      display: inline;    
+      background-color: #fff;
+      margin-left: 0px;
+      margin-right: 0px;
+      font-size: 15px;
+      width: 80px;
+  }
+  
+  
+  
+  
+   .num-agree 
+  {
+      margin-left: 20px;
+      display: inline;
+      color:DodgerBlue; 
+      margin-left: 27px;         
+  }
+  
+  
+  .num-disagree
+  {
+     margin-left: 50px;
+    display: inline;
+    color:DodgerBlue;    
+  }
+  
+
+    .btn-agree:hover
+  {
+     
+      background-color: #fff;
+      border-style: none;
+  }
+  
+  
+  
+  .btn-disagree:hover
+  {
+     
+      background-color: #fff;
+     border-style: none;
+  }
+  
+  .websitehref
+  {
+      text-decoration: none;
+  }
+ 
+ 

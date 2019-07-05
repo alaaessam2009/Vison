@@ -1,0 +1,6 @@
+#
+#Mon Jun 10 20:46:05 EET 2019
+controllers.UserController=org.springframework.stereotype.Component
+controllers.Messages=org.springframework.stereotype.Component
+controllers.ComparisonCompany=org.springframework.stereotype.Component
+controllers.CompanyController=org.springframework.stereotype.Component

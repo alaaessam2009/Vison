@@ -1,0 +1,71 @@
+
+textarea
+{
+    border-radius: 3px;
+    
+}
+
+
+ .title-pros
+{
+ margin-left: 400px; 
+ margin-top: 50px;
+ resize: none;
+}
+
+
+.textarea-pros
+{
+  display: block;
+  margin-top: 20px;
+  margin-left: 400px; 
+  resize: none;
+}
+
+
+.title-cons
+{
+    margin-left: 400px; 
+    margin-top: 50px;
+    resize: none;
+}
+
+
+.textarea-cons
+{
+  display: block;
+  margin-top: 20px;
+  margin-left: 400px;
+  margin-bottom: 20px;
+  resize: none;
+}
+
+.error
+{
+   color: #F52727;
+   font-weight: bold;
+   display: inline;  
+   margin-left: 595px;    
+}
+
+.review
+{
+    display: block;
+  margin-left: 640px;
+  margin-top: 30px;
+  width: 100px;
+  height: 35px;
+  background-color: #3c3c3c ;
+  border-style: none;
+  border-radius: 4px;
+  color: #fff;
+}
+
+ .review:hover
+ {
+   background-color:#787878 ;
+   color: #fff;
+ }
+
+
+

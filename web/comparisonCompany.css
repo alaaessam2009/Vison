@@ -1,0 +1,336 @@
+
+body
+{
+margin: 0;
+ background-color: #f2f2f2;
+}
+
+
+
+ /* Navigation bar */
+   header
+   {
+   height: 100px;
+   }
+
+  .container
+  {
+    background:  #33334d ;
+    display: block;
+    position: fixed;
+    width: 100% ;
+    height: 70px;
+  }
+
+   nav
+   {
+     margin-right: 5px;
+     float: right;
+     margin-right: 90px;
+   }
+
+   nav li
+    {
+     display:  inline-block;
+     margin-left:  70px;
+     padding-top: 25px ;
+    }
+
+    nav a
+    {
+     color: #fff;
+     text-decoration: none;
+    }
+    div ul li a
+    {
+       color: #fff;
+     }
+
+    button
+    {
+      display: inline-block;
+      margin-top: 9px;
+      margin-left: 5px;
+      width: 85px;
+      height: 35px;
+      margin-right: 150px;
+      background: #ffffff;
+      border-style: none;
+      border-radius: 3px;
+    }
+
+    button:hover
+    {
+       background-color: #ffb31a;
+    }
+
+
+input[placeholder="Search" ]
+{
+
+      display: inline-block;
+       float: left;
+       width: 350px;
+       margin-top: 9px;
+
+    }
+
+    nav ul
+    {
+     margin-left: 0px;
+     margin-top: -35px;
+    list-style: none;
+    }
+
+    .navgation
+    {
+      margin-right: -60px;
+      color: #fff;
+      margin-top: 20px;
+     list-style: none;
+    }
+
+    li
+    {
+      margin-right: -30px;
+      color: #fff;
+      margin-top: 20px;
+     list-style: none;
+    }
+
+
+    .add-review
+    {
+       float: left;
+      width: 230px;
+      margin-top: 57px;
+    }
+
+    .form-action-rating
+    {
+        float: left;
+    }
+
+ /* Navigation bar */
+
+
+ 
+ 
+ 
+ 
+ 
+
+/* Footer Menu */
+
+h3
+{
+  color: #fff;
+  margin-left: 30px;
+  font-size: 25px;
+}
+
+.parent-div
+{
+  overflow :hidden;
+  background-color:  #1f1f2e ;
+  margin-top: 250px;
+  height: 370px ;
+
+}
+
+
+.contactus-div
+{
+  margin-top: 60px;
+  margin-left: 60px;
+  float: left;
+}
+
+.aboutus-div
+{
+  color: #fff ;
+  margin-top: 60px;
+  margin-left: 40px;
+  float: left;
+}
+
+.followus-div
+{
+  margin-top: 60px;
+  float: left;
+}
+
+
+.message-div
+  {
+    margin-right: 90px;
+    margin-top: 45px;
+    float: right;
+  }
+
+
+  .follow-header
+  {
+    margin-left: 75px;
+  }
+
+
+ .ul-followus li
+ {
+   display: inline;
+   margin-left: 20px;
+ }
+
+ ul li a
+ {
+   display: inline-block;
+   margin-left: 20px;
+ }
+ ul
+ {
+   margin-left: -15px;
+ }
+
+  input
+  {
+    display: block;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 250px;
+    height: 33px;
+    border-style: none;
+    border-radius: 3px;
+    padding-left: 13px;
+  }
+
+.message-submit
+ {
+  background-color: #ffd11a;
+  margin-top: 10px;
+  width: 80px;
+  height: 35px;
+  padding: 0;
+}
+
+textarea
+{
+ padding-top: 10px;
+ padding-left: 10px;
+}
+
+
+div ul li a:hover
+{
+  color:#ffd633;
+}
+
+  .message-submit:hover
+  {
+  background-color: #000;
+  color: #fff;
+  }
+
+  /* Footer Menu */
+
+  
+  .containerCompare
+  {
+      margin-left: 310px;
+      margin-top: 100px;
+      display: inline-block;
+    
+  }
+  
+  .company1
+  {
+    
+     
+      display: inline-block;
+      background-color: #fff;
+      border-radius: 8px;
+     
+      
+  }
+ 
+  
+  .vs
+  {
+       display: inline-block;
+       margin-left: 150px;
+      
+   
+     
+      
+  }
+ 
+ 
+ 
+  .company2
+  {
+      margin-left: 150px;
+     border-radius: 8px;
+      display: inline-block;
+        background-color: #fff;
+      
+  }
+ 
+ 
+ .prosCom1
+ {
+     display: inline-block;
+     color: MediumSeaGreen;
+     margin-left: 20px;
+ }
+  .consCom1
+ {
+     margin-left: 100px;
+     margin-right: 20px;
+     display: inline-block;
+      color: Tomato;
+      
+ }
+ 
+ 
+ .nameCom1
+ {
+    
+     margin-left: 55px;
+ }
+ 
+ .nameCom2
+ {
+      margin-left: 60px;
+ }
+ 
+ 
+ 
+ .prosCom2
+ {
+     display: inline-block;
+      color: MediumSeaGreen;
+      margin-left: 20px;
+ }
+  .consCom2
+ {
+     margin-left: 100px;
+     display: inline-block;
+       color: Tomato;
+       margin-right: 20px;
+ }
+ 
+ 
+ .ContainerPrefer
+ {
+     display: inline-block;
+     padding: 10px;
+    
+     margin-left: 310px;
+     margin-top: 60px;
+     
+ }
+ 
+ .prefer
+ {
+      
+      font-size: 16px;
+ }

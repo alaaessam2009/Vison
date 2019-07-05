@@ -1,0 +1,48 @@
+
+body
+{
+  margin: 0;
+}
+
+h3
+{
+  margin-left: 650px;
+  margin-top: 70px;
+}
+
+.company
+ {
+   display: block;
+   margin-left: 600px;
+   margin-top: 170px;
+   width: 170px;
+   height: 40px;
+   background-color: #ffff4d;
+   border-radius: 3px;
+   border-style: none;
+
+
+ }
+
+ .user
+{
+  display: block;
+  margin-left: 600px;
+  margin-top: 50px;
+  width: 170px;
+  height: 40px;
+  background-color: #ffff4d;
+  border-radius: 3px;
+  border-style: none;
+}
+
+
+.user:hover
+{
+   background-color: #ffd633;
+}
+
+.company:hover
+{
+   background-color: #ffd633;
+}

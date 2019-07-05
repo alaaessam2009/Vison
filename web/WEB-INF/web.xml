@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="3.1" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd">
+   
+   
+    
+    <session-config>
+        <session-timeout>
+            30
+        </session-timeout>
+    </session-config>
+  
+  
+  
+    <servlet>
+        <servlet-name>dispatcher</servlet-name>
+        <servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
+    </servlet>
+    
+    <servlet-mapping>
+        <servlet-name>dispatcher</servlet-name>
+        <url-pattern>/register</url-pattern>
+        <url-pattern>/registerCompany</url-pattern>
+        <url-pattern>/search</url-pattern>
+        <url-pattern>/sendReview</url-pattern>
+        <url-pattern>/loginUser</url-pattern>
+        <url-pattern>/resetPass</url-pattern>
+        <url-pattern>/agree</url-pattern>
+        <url-pattern>/disAgree</url-pattern>
+        <url-pattern>/ComparisonCompanies</url-pattern>
+        <url-pattern>/sendMessage</url-pattern>
+    </servlet-mapping>
+    
+    
+    
+    <context-param>
+      <param-name>contextConfigLocation</param-name>
+      <param-value>WEB-INF/dispatcher-servlet.xml</param-value>
+   </context-param>
+
+    <listener>
+      <listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
+    </listener>
+
+    
+    
+   
+</web-app>

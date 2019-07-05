@@ -1,0 +1,263 @@
+
+body
+
+{
+margin: 0;
+background-image: url("images/home2.jpg");
+background-size: cover;
+
+
+}
+
+input
+{
+ display: inline;    
+}
+
+.index-image
+
+ {
+   width: 100%;
+   height: 620px;
+ }
+
+ 
+
+ /* Navigation bar */
+
+ header
+ {
+ height: 55px;
+ }
+
+  .container
+  {
+    display: block;
+    background:  #091111 ;
+    position: fixed;
+    width: 100% ;
+    height: 53px;
+    margin: 0 auto ;
+  }
+
+  .logo
+  {
+    width: 100px ;
+    height: 100px;
+    float: left ;
+    margin-top: 20px ;
+    margin-left: -80px;
+  }
+
+   nav
+   {
+     margin-right: 5px;
+     float: right;
+     margin-right: 90px;
+   }
+
+   nav ul
+   {
+    margin: -17px;
+    margin-top: -35px;
+    list-style: none;
+   }
+
+  nav li
+   {
+
+    display:  inline-block;
+    margin-left:  52px;
+    padding-top: 35px ;
+
+
+   }
+
+
+ nav a
+ {
+  color: #A9A9A9;
+  text-decoration: none;
+ }
+
+  nav a:hover
+  {
+  color: #fff ;
+  }
+
+ /* Navigation bar */
+
+
+
+
+ b
+{
+  color: #fff;
+}
+
+.search
+{
+    margin-top: 250px;
+    margin-left:  450px;
+}
+
+.search [type="text"]
+{
+  display: inline;
+  width: 350px;
+  height: 45px;
+  padding-left: 15px;
+  border-style: none;
+  border-radius: 3px ;
+  font-size: 16px;
+}
+
+
+.search [type="submit"]
+{
+  width: 90px;
+  height: 45px;
+  margin-left: 5px;
+  background-color: #ffd11a;
+  border-style: none;
+  border-radius: 3px ;
+  font-size: 16px;
+
+}
+
+.search [type="submit"]:hover
+{
+    background-color: #1a1a1a;
+    color: #fff;
+}
+
+
+
+
+
+
+
+/* Footer Menu */
+
+h3
+{
+  color: #fff;
+  margin-left: 30px;
+  font-size: 25px;
+}
+
+.parent-div
+{   
+  overflow :hidden;
+  background-color: #091111 ;
+  margin-top: 250px;
+  height: 370px ;
+}
+
+
+
+
+
+
+.contactus-div
+{
+  margin-top: 60px;
+  margin-left: 30px;
+  float: left;
+}
+
+.aboutus-div
+{
+  color: #fff ;
+  margin-top: 60px;
+  margin-left: 50px;
+  margin-right: 50px;
+  float: left;
+}
+
+.followus-div
+{
+  margin-top: 60px;
+  float: left;
+}
+
+
+
+.message-div
+  {
+    display: inline;
+    margin-left: 110px;   
+    margin-top: 45px;
+    float: left;
+ 
+  }
+
+
+.follow-header
+{
+  margin-left: 55px;
+}
+
+ li
+ {
+   color: #fff;
+   margin-top: 20px;
+  list-style: none;
+ }
+
+ .ul-followus li
+ {
+   display: inline;
+   margin-left: 10px;
+ }
+
+  input
+  {
+    display: block;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 200px;
+    height: 33px;
+    border-style: none;
+    border-radius: 3px;
+    padding-left: 13px;
+  }
+
+.message-submit
+ {
+  background-color: #ffd11a;
+  margin-top: 10px;
+  width: 80px;
+  height: 35px;
+  padding: 0;
+}
+
+textarea
+{
+ padding-top: 10px;
+ padding-left: 10px;
+ resize: none;
+}
+
+div ul li a
+{
+
+  color: #FFFFFF;
+}
+
+
+div ul li a:hover
+{
+  color:#ffd633;
+}
+
+  .message-submit:hover
+  {
+  background-color: #000;
+  color: #fff;
+  }
+
+  /* Footer Menu */
+
+
+  
