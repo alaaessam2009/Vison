@@ -6,10 +6,10 @@ Our Mission : “Give for employee a future vision and improvement Companies”
 
 The technology used in this application :
 
-HTML5 
-CSS3
-Spring MVC
-MySQL Database
-JSP
-XML
+HTML5 ,
+CSS3 ,
+Spring MVC ,
+MySQL Database ,
+JSP ,
+XML ,
 Tomcat Application Server
