@@ -11,5 +11,4 @@ CSS3 ,
 Spring MVC ,
 MySQL Database ,
 JSP ,
-XML ,
-Tomcat Application Server
+XML 
